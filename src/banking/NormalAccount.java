@@ -10,7 +10,7 @@ public class NormalAccount extends Account {
 	//자식에서 확장한 멤버변수
 	private int nInterest; //이자
 	
-	//기본 생성자
+	//기본 생성자 
 	public NormalAccount () {
 		
 	}
